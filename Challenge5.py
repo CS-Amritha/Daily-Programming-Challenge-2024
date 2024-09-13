@@ -7,6 +7,7 @@ def Leader(arr, n):
                 break
         else: 
             print(arr[i], end=' ')
+            
 arr = [16, 17, 4, 3, 5, 2]
 Leader(arr, len(arr))
 
