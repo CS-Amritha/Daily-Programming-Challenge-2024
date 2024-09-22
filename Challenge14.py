@@ -24,3 +24,4 @@ Userinput=input()
 k = int(input("input an integer k: "))
 result = countSubstrings(Userinput,k)
 print(result)
+
